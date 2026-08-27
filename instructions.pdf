@@ -1,0 +1,483 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Instructions on How This Works)
+/Author (NSE Extractor)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 7904
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.807843 .847059 .886275 RG
+n 39.68504 36.85039 m 555.5906 36.85039 l S
+.34902 .411765 .478431 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 39.68504 24.09449 Tm (NSE_EXTRACTOR QUICK START) Tj T* ET
+BT 1 0 0 1 531.8231 24.09449 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 770.2047 cm
+q
+.090196 .227451 .368627 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL 83.87276 0 Td (Instructions on How This Works) Tj T* -83.87276 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 753.2047 cm
+q
+.34902 .411765 .478431 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL 113.0178 0 Td (A simple Windows setup and run guide for NSE_EXTRACTOR) Tj T* -113.0178 0 Td ET
+Q
+Q
+q
+1 0 0 1 39.68504 718.2047 cm
+q
+.121569 .435294 .611765 rg
+n 0 25 515.9055 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (1. Install Python and add it to PATH) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 714.2047 cm
+Q
+q
+1 0 0 1 45.68504 701.7047 cm
+q
+BT 1 0 0 1 0 3.3 Tm 12.5 TL /F1 9.2 Tf .121569 .160784 .215686 rg (Download the normal ) Tj /F2 9.2 Tf (64-bit Windows version of Python 3.13.14) Tj /F1 9.2 Tf ( from ) Tj 0 .419608 .65098 rg (python.org/downloads/windows) Tj .121569 .160784 .215686 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 684.2047 cm
+q
+BT 1 0 0 1 0 3.3 Tm 12.5 TL /F1 9.2 Tf .121569 .160784 .215686 rg (Open the installer, tick ) Tj /F2 9.2 Tf (Add python.exe to PATH) Tj /F1 9.2 Tf (, then click ) Tj /F2 9.2 Tf (Install Now) Tj /F1 9.2 Tf (. Close and reopen PowerShell after installation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.18898 658.7047 cm
+q
+.94902 .956863 .968627 rg
+n 0 20.5 498.8976 -20.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5 cm
+q
+.2 .254902 .333333 rg
+BT 1 0 0 1 6 2.3 Tm /F3 8.2 Tf 10.5 TL (python --version) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.807843 .847059 .886275 RG
+.5 w
+n 0 20.5 m 498.8976 20.5 l S
+n 0 0 m 498.8976 0 l S
+n 0 0 m 0 20.5 l S
+n 498.8976 0 m 498.8976 20.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 651.7047 cm
+Q
+q
+1 0 0 1 39.68504 626.7047 cm
+q
+.121569 .435294 .611765 rg
+n 0 25 515.9055 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (2. Open PowerShell and use the basic commands) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 622.7047 cm
+Q
+q
+1 0 0 1 45.68504 610.2047 cm
+q
+BT 1 0 0 1 0 3.3 Tm 12.5 TL /F1 9.2 Tf .121569 .160784 .215686 rg (Press the Windows key, type ) Tj /F2 9.2 Tf (PowerShell) Tj /F1 9.2 Tf (, and open it. These are the commands you need:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.68504 505.2047 cm
+q
+.905882 .945098 .972549 rg
+n 0 100 515.9055 -20 re f*
+.121569 .160784 .215686 rg
+BT /F1 8.8 Tf 12 TL ET
+BT 1 0 0 1 6 87.2 Tm (Command) Tj T* ET
+BT 1 0 0 1 147.7323 87.2 Tm (What it does) Tj T* ET
+BT /F4 8.8 Tf 12 TL ET
+BT 1 0 0 1 6 67.2 Tm (pwd) Tj T* ET
+BT /F1 8.8 Tf 12 TL ET
+BT 1 0 0 1 147.7323 67.2 Tm (Shows your current folder.) Tj T* ET
+BT /F4 8.8 Tf 12 TL ET
+BT 1 0 0 1 6 47.2 Tm (dir) Tj T* ET
+BT /F1 8.8 Tf 12 TL ET
+BT 1 0 0 1 147.7323 47.2 Tm (Lists the files and folders here.) Tj T* ET
+BT /F4 8.8 Tf 12 TL ET
+BT 1 0 0 1 6 27.2 Tm (cd "full folder path") Tj T* ET
+BT /F1 8.8 Tf 12 TL ET
+BT 1 0 0 1 147.7323 27.2 Tm (Moves into that folder.) Tj T* ET
+BT /F4 8.8 Tf 12 TL ET
+BT 1 0 0 1 6 7.2 Tm (cd ..) Tj T* ET
+BT /F1 8.8 Tf 12 TL ET
+BT 1 0 0 1 147.7323 7.2 Tm (Moves back one folder.) Tj T* ET
+q
+1 J
+1 j
+.807843 .847059 .886275 RG
+.5 w
+n 0 100 m 515.9055 100 l S
+n 0 0 m 515.9055 0 l S
+n 0 0 m 0 100 l S
+n 515.9055 0 m 515.9055 100 l S
+n 0 80 m 515.9055 80 l S
+n 0 60 m 515.9055 60 l S
+n 0 40 m 515.9055 40 l S
+n 0 20 m 515.9055 20 l S
+n 141.7323 0 m 141.7323 100 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 498.2047 cm
+Q
+q
+1 0 0 1 39.68504 473.2047 cm
+q
+.121569 .435294 .611765 rg
+n 0 25 515.9055 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (3. Enter the project folder, add companies, install once, and run) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 469.2047 cm
+Q
+q
+1 0 0 1 45.68504 456.7047 cm
+q
+BT 1 0 0 1 0 3.3 Tm 12.5 TL /F1 9.2 Tf .121569 .160784 .215686 rg (Keep ) Tj /F2 9.2 Tf (NSE.py) Tj /F1 9.2 Tf (, ) Tj /F2 9.2 Tf (companies.xlsx) Tj /F1 9.2 Tf (, and ) Tj /F2 9.2 Tf (requirements.txt) Tj /F1 9.2 Tf ( together inside the NSE_EXTRACTOR folder.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 426.7047 cm
+q
+BT 1 0 0 1 0 15.8 Tm 12.5 TL /F2 9.2 Tf .121569 .160784 .215686 rg (Before running:) Tj /F1 9.2 Tf ( open ) Tj /F2 9.2 Tf (companies.xlsx) Tj /F1 9.2 Tf (, add the company names in column B under ) Tj /F2 9.2 Tf (Name) Tj /F1 9.2 Tf (, then save and close the Excel) Tj T* (file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 410.2047 cm
+q
+.34902 .411765 .478431 rg
+BT 1 0 0 1 0 3 Tm /F1 8.5 Tf 11.5 TL (Change the example path below to the real path on that laptop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.18898 342.7047 cm
+q
+.94902 .956863 .968627 rg
+n 0 62.5 498.8976 -62.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5 cm
+q
+BT 1 0 0 1 6 44.3 Tm 10.5 TL /F3 8.2 Tf .2 .254902 .333333 rg (cd "C:\\Users\\YourName\\Downloads\\NSE_EXTRACTOR") Tj  T* (python -m pip install --upgrade pip) Tj  T* (python -m pip install -r requirements.txt) Tj  T* (python -m playwright install chromium) Tj  T* (python NSE.py) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.807843 .847059 .886275 RG
+.5 w
+n 0 62.5 m 498.8976 62.5 l S
+n 0 0 m 498.8976 0 l S
+n 0 0 m 0 62.5 l S
+n 498.8976 0 m 498.8976 62.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 338.7047 cm
+Q
+q
+1 0 0 1 45.68504 315.7047 cm
+q
+BT 1 0 0 1 0 14.5 Tm 11.5 TL /F1 8.5 Tf .34902 .411765 .478431 rg (The three installation commands are needed only once. For future runs, open PowerShell, use ) Tj /F2 8.5 Tf (cd) Tj /F1 8.5 Tf ( to enter NSE_EXTRACTOR, then) Tj T* (run ) Tj /F2 8.5 Tf (python NSE.py) Tj /F1 8.5 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 299.2047 cm
+q
+BT 1 0 0 1 0 3 Tm 11.5 TL /F1 8.5 Tf .34902 .411765 .478431 rg (If Windows recognizes ) Tj /F2 8.5 Tf (py) Tj /F1 8.5 Tf ( instead of ) Tj /F2 8.5 Tf (python) Tj /F1 8.5 Tf (, replace python with py in every command.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 288.2047 cm
+Q
+q
+1 0 0 1 39.68504 263.2047 cm
+q
+.121569 .435294 .611765 rg
+n 0 25 515.9055 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (4. Where the output will be) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 259.2047 cm
+Q
+q
+1 0 0 1 45.68504 246.7047 cm
+q
+.121569 .160784 .215686 rg
+BT 1 0 0 1 0 3.3 Tm /F1 9.2 Tf 12.5 TL (A new timestamped run folder is created automatically here:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.18898 221.2047 cm
+q
+.94902 .956863 .968627 rg
+n 0 20.5 498.8976 -20.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5 cm
+q
+.2 .254902 .333333 rg
+BT 1 0 0 1 6 2.3 Tm /F3 8.2 Tf 10.5 TL (NSE_EXTRACTOR\\outputs\\YYYY-MM-DD_HH-MM-SS\\) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.807843 .847059 .886275 RG
+.5 w
+n 0 20.5 m 498.8976 20.5 l S
+n 0 0 m 498.8976 0 l S
+n 0 0 m 0 20.5 l S
+n 498.8976 0 m 498.8976 20.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 217.2047 cm
+Q
+q
+1 0 0 1 45.68504 192.2047 cm
+q
+BT 1 0 0 1 0 15.8 Tm 12.5 TL /F1 9.2 Tf .121569 .160784 .215686 rg (Inside it, each company gets its own folder containing the downloaded PDFs and final Excel/JSON reports. The) Tj T* /F2 9.2 Tf (.nse_browser_profile) Tj /F1 9.2 Tf ( folder is also created automatically; leave it in place.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.905882 0.945098 0.972549 rg
+0.121569 0.435294 0.611765 RG
+0.7 w
+n
+42.68504 68.0315 m
+552.5906 68.0315 l
+554.249 68.0315 555.5906 69.3731 555.5906 71.0315 c
+555.5906 107.5512 l
+555.5906 109.2096 554.249 110.5512 552.5906 110.5512 c
+42.68504 110.5512 l
+41.02664 110.5512 39.68504 109.2096 39.68504 107.5512 c
+39.68504 71.0315 l
+39.68504 69.3731 41.02664 68.0315 42.68504 68.0315 c
+h
+B*
+0.090196 0.227451 0.368627 rg
+BT
+/F2-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 56.69291 83.33858 Tm
+(PowerShell tip\072) Tj
+T*
+ET
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 144.5669 83.33858 Tm
+(Press Ctrl \053 C to stop the current running process\056) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Courier-Bold
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000118 00000 n 
+0000000177 00000 n 
+0000000226 00000 n 
+0000000503 00000 n 
+0000008459 00000 n 
+0000008566 00000 n 
+0000008673 00000 n 
+0000008785 00000 n 
+0000008897 00000 n 
+0000009003 00000 n 
+trailer
+<<
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+9114
+%%EOF

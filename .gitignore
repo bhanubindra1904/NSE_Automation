@@ -1,0 +1,17 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated extractor data
+outputs/
+.nse_browser_profile/
+*.log
+
+# Local environment and temporary files
+.env
+.env.*
+!.env.example
+~$*
+
